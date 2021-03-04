@@ -1,7 +1,9 @@
 Micronaut websocket demo.
 
 DemoServerWebSocket.java
+
 onOpen :  To demonstrate how to send async message after client opens a Websocket
+
 onMessage : To demonstrate receiving a message from client and auto respond from server.
 
 How to test using multiple client:
